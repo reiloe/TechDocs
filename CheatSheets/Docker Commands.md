@@ -2,8 +2,8 @@
 
 ### **Table of Contents**
 
-1. [Docker Hub Commands](#docker%20hub%20commands)
-2. [Image Operations](#image%20operations)
+1. [Docker Hub Commands](#docker-hub-commands)
+2. [Image Operations](#image-operations)
 3. [Container Operations](#container-operations)
 
 ### Docker Hub Commands
