@@ -2,7 +2,7 @@
 
 ### **Table of Contents**
 
-1. [[#Basic Docker-Hub Commands]]
+1. [[#Basic Docker-Hub Commands]](basic-docker-hub-commands)
 2. [[#Basic Image Operations]]
 3. [[#Basic Container Operations]]
 
