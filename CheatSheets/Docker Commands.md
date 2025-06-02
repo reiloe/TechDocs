@@ -4,7 +4,7 @@
 
 1. [Docker Hub Commands](#docker%20hub%20commands)
 2. [Image Operations](#image%20operations)
-3. [Container Operations](#container%20operations)
+3. [Container Operations](#container-operations)
 
 ### Docker Hub Commands
 
