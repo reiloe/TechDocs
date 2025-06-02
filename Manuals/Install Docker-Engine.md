@@ -1,13 +1,14 @@
 # Install Docker -Engine
 
 ## Install on:
-- [Ubuntu](#ubuntu)
-- [[#Debian]]
-- [[#Rhel/CentOS]]
-- [[#MacOs]]
-- [[#Windows]]
 
-##### Ubuntu
+- [Ubuntu](#ubuntu)
+- [Debian](#debian)
+- [Rhel/CentOS](#rhel\/centos)
+- [MacOs](#macos)
+- [Windows](#windows)
+
+### Ubuntu
 
 **Supported Versions**
 - Ubuntu Oracular 24.10
@@ -40,8 +41,8 @@ sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
-##### [[#Debian]]
-##### [[#Rhel/CentOS]]
-##### [[#MacOs]]
-##### [[#Windows]]
+### Debian
+### Rhel/CentOS
+### MacOs
+### Windows
 

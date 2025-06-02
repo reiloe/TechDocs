@@ -2,11 +2,11 @@
 
 ### **Table of Contents**
 
-1. [[#Basic Docker-Hub Commands]]
-2. [[#Basic Image Operations]]
-3. [[#Basic Container Operations]]
+1. [Docker Hub Commands](#docker%20hub%20commands)
+2. [Image Operations](#image%20operations)
+3. [Container Operations](#container%20operations)
 
-### Basic Docker-Hub Commands
+### Docker Hub Commands
 
 Docker Hub is a service provided by Docker for finding and sharing container images.
 
@@ -35,7 +35,7 @@ docker push <username>/<image_name>
 ```
 
 
-### Basic Image Operations
+### Image Operations
 
 List local images
 
@@ -78,7 +78,7 @@ docker image prune
 ```
 
 
-### Basic Container Operations
+### Container Operations
 
 Show all running container
 
