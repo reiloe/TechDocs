@@ -1,13 +1,13 @@
 # Install Docker -Engine
 
 ## Install on:
-- [[#Ubuntu]]
+- [Ubuntu](#ubuntu)
 - [[#Debian]]
 - [[#Rhel/CentOS]]
 - [[#MacOs]]
 - [[#Windows]]
 
-##### [[#Ubuntu]]
+##### Ubuntu
 
 **Supported Versions**
 - Ubuntu Oracular 24.10
