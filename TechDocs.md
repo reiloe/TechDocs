@@ -5,7 +5,7 @@
 
 ### CheatSheets
 
-- [[Docker]]
+- [Docker](#CheatSheets/Docker)
 
 ### Manuals
 
